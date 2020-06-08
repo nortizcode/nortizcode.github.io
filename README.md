@@ -1,2 +1,0 @@
-# nortizocode.github.io
-portfolio
